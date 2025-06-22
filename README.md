@@ -6,7 +6,7 @@ This project performs **automated brain tumor classification** using MRI images 
 
 ## 📚 Table of Contents
 
-- [(https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#-overview)](#overview)
+- [Overview]([#overview](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#-overview))
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Setup Instructions](#setup-instructions)
