@@ -1,0 +1,7 @@
+tensorflow>=2.19.0
+opencv-python-headless
+scikit-learn
+imutils
+matplotlib
+seaborn
+numpy
