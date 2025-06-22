@@ -7,13 +7,13 @@ This project performs **automated brain tumor classification** using MRI images 
 ## 📚 Table of Contents
 
 - [Overview](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#-overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Results](#results)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
+- [Features](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#-features)
+- [Project Structure](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#%EF%B8%8F-project-structure)
+- [Setup Instructions](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#%EF%B8%8F-setup-instructions)
+- [Usage](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#%EF%B8%8F-usage)
+- [Results](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#-results)
+- [Acknowledgements](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#-acknowledgements)
+- [License](https://github.com/Manikantareddy4567/Brain_Tumor_Classification_System/blob/main/README.md#-license)
 
 
 ---
