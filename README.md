@@ -68,7 +68,7 @@ Brain_tumor_detection/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/brain-tumor-detection.git
+git clone https://github.com/Manikantareddy4567/brain-tumor-detection.git
 cd brain-tumor-detection
 ```
 
