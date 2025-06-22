@@ -6,14 +6,14 @@ This project performs **automated brain tumor classification** using MRI images 
 
 ## 📚 Table of Contents
 
-## Overview
-## Features
-## Project Structure
-## Setup Instructions
-## Usage
-## Results
-## Acknowledgements
-## License
+- [Overview](#overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Results](#results)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 
 ---
