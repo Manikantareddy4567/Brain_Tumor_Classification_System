@@ -26,7 +26,6 @@ Brain tumor detection from MRI scans is a critical task in medical imaging. This
 - Meningioma
 - Pituitary Tumor
 - No Tumor
-
 The system uses a CNN for training and evaluation with a focus on extendability and readability.
 
 ---
@@ -81,7 +80,21 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Prepare Dataset
+### 3. Download Dataset
+
+We use the publicly available brain MRI dataset from Kaggle:  
+[Brain Tumor MRI Dataset (by masoudnickparvar)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
+You can download the dataset programmatically using [KaggleHub](https://pypi.org/project/kagglehub/):
+
+```python
+import kagglehub
+
+# Download the latest version of the dataset
+path = kagglehub.dataset_download("masoudnickparvar/brain-tumor-mri-dataset")
+
+print("Path to dataset files:", path)
+
 
 Ensure your dataset is structured as:
 
